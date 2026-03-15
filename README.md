@@ -1,4 +1,4 @@
-# 📸 GridSnap-Optimizer (v2.7)
+# 📸 GridSnap-Optimizer (v2.8)
 **Smart batch image resizer & optimizer that preserves pixel density and sharpness across mixed orientations.**
 *Công cụ tối ưu ảnh hàng loạt, bảo toàn mật độ điểm ảnh và độ nét cho cả ảnh ngang và dọc.*
 
@@ -32,7 +32,7 @@
 ### 🚀 How to use (Hướng dẫn sử dụng)
 1.  **Install dependencies:** `pip install pillow pillow-heif pillow-avif-plugin`
 2.  **Add images:** Put your photos (JPG, PNG, HEIC, AVIF...) into the `Anh_Goc` folder.
-3.  **Run:** Execute `GridSnap-Optimizer_v2.7.py` and check the `Anh_Da_Nen` folder for results.
+3.  **Run:** Execute `GridSnap-Optimizer_v2.8.py` and check the `Anh_Da_Nen` folder for results.
 
 ---
 
